@@ -1,0 +1,13 @@
+{
+  "id": "cindyxue1122/neurogolf-gpu-solver",
+  "title": "neurogolf-gpu-solver",
+  "code_file": "neurogolf_gpu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["neurogolf-2026"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}

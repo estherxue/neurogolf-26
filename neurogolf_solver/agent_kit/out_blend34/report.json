@@ -1,0 +1,2805 @@
+{
+ "tasks": [
+  {
+   "task": 1,
+   "points": 19.753,
+   "mem": 0,
+   "params": 190,
+   "src": "measured"
+  },
+  {
+   "task": 2,
+   "points": 15.433,
+   "mem": 14060,
+   "params": 225,
+   "src": "measured"
+  },
+  {
+   "task": 3,
+   "points": 19.44,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 4,
+   "points": 16.51,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:inexact 28/265"
+  },
+  {
+   "task": 5,
+   "points": 16.667,
+   "mem": 4079,
+   "params": 78,
+   "src": "measured"
+  },
+  {
+   "task": 6,
+   "points": 20.81,
+   "mem": 36,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 7,
+   "points": 20.156,
+   "mem": 0,
+   "params": 127,
+   "src": "measured"
+  },
+  {
+   "task": 8,
+   "points": 17.102,
+   "mem": 2602,
+   "params": 91,
+   "src": "measured"
+  },
+  {
+   "task": 9,
+   "points": 16.19,
+   "mem": 6529,
+   "params": 170,
+   "src": "measured"
+  },
+  {
+   "task": 10,
+   "points": 18.09,
+   "mem": 670,
+   "params": 332,
+   "src": "measured"
+  },
+  {
+   "task": 11,
+   "points": 19.238,
+   "mem": 64,
+   "params": 254,
+   "src": "measured"
+  },
+  {
+   "task": 12,
+   "points": 17.281,
+   "mem": 2063,
+   "params": 188,
+   "src": "measured"
+  },
+  {
+   "task": 13,
+   "points": 17.739,
+   "mem": 1361,
+   "params": 63,
+   "src": "measured"
+  },
+  {
+   "task": 14,
+   "points": 16.677,
+   "mem": 4036,
+   "params": 81,
+   "src": "measured"
+  },
+  {
+   "task": 15,
+   "points": 18.198,
+   "mem": 0,
+   "params": 900,
+   "src": "measured"
+  },
+  {
+   "task": 16,
+   "points": 22.697,
+   "mem": 0,
+   "params": 10,
+   "src": "measured"
+  },
+  {
+   "task": 17,
+   "points": 16.228,
+   "mem": 4749,
+   "params": 1704,
+   "src": "measured"
+  },
+  {
+   "task": 18,
+   "points": 14.899,
+   "mem": 23668,
+   "params": 692,
+   "src": "measured"
+  },
+  {
+   "task": 19,
+   "points": 17.174,
+   "mem": 2421,
+   "params": 83,
+   "src": "measured"
+  },
+  {
+   "task": 20,
+   "points": 18.073,
+   "mem": 712,
+   "params": 307,
+   "src": "measured"
+  },
+  {
+   "task": 21,
+   "points": 19.22,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 22,
+   "points": 18.198,
+   "mem": 162,
+   "params": 738,
+   "src": "measured"
+  },
+  {
+   "task": 23,
+   "points": 15.985,
+   "mem": 8083,
+   "params": 139,
+   "src": "measured"
+  },
+  {
+   "task": 24,
+   "points": 20.975,
+   "mem": 0,
+   "params": 56,
+   "src": "measured"
+  },
+  {
+   "task": 25,
+   "points": 15.766,
+   "mem": 10132,
+   "params": 104,
+   "src": "measured"
+  },
+  {
+   "task": 26,
+   "points": 19.702,
+   "mem": 0,
+   "params": 200,
+   "src": "measured"
+  },
+  {
+   "task": 27,
+   "points": 18.131,
+   "mem": 659,
+   "params": 303,
+   "src": "measured"
+  },
+  {
+   "task": 28,
+   "points": 20.405,
+   "mem": 0,
+   "params": 99,
+   "src": "measured"
+  },
+  {
+   "task": 29,
+   "points": 16.427,
+   "mem": 5212,
+   "params": 76,
+   "src": "measured"
+  },
+  {
+   "task": 30,
+   "points": 17.5,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 31,
+   "points": 18.543,
+   "mem": 524,
+   "params": 113,
+   "src": "measured"
+  },
+  {
+   "task": 32,
+   "points": 18.187,
+   "mem": 0,
+   "params": 910,
+   "src": "measured"
+  },
+  {
+   "task": 33,
+   "points": 19.409,
+   "mem": 0,
+   "params": 268,
+   "src": "measured"
+  },
+  {
+   "task": 34,
+   "points": 17.835,
+   "mem": 1109,
+   "params": 185,
+   "src": "measured"
+  },
+  {
+   "task": 35,
+   "points": 17.446,
+   "mem": 1450,
+   "params": 459,
+   "src": "measured"
+  },
+  {
+   "task": 36,
+   "points": 18.043,
+   "mem": 961,
+   "params": 90,
+   "src": "measured"
+  },
+  {
+   "task": 37,
+   "points": 17.19,
+   "mem": 2268,
+   "params": 197,
+   "src": "measured"
+  },
+  {
+   "task": 38,
+   "points": 19.639,
+   "mem": 163,
+   "params": 50,
+   "src": "measured"
+  },
+  {
+   "task": 39,
+   "points": 18.884,
+   "mem": 404,
+   "params": 49,
+   "src": "measured"
+  },
+  {
+   "task": 40,
+   "points": 20.618,
+   "mem": 0,
+   "params": 80,
+   "src": "measured"
+  },
+  {
+   "task": 41,
+   "points": 18.869,
+   "mem": 0,
+   "params": 460,
+   "src": "measured"
+  },
+  {
+   "task": 42,
+   "points": 16.958,
+   "mem": 2792,
+   "params": 318,
+   "src": "measured"
+  },
+  {
+   "task": 43,
+   "points": 20.94,
+   "mem": 0,
+   "params": 58,
+   "src": "measured"
+  },
+  {
+   "task": 44,
+   "points": 16.925,
+   "mem": 3060,
+   "params": 152,
+   "src": "measured"
+  },
+  {
+   "task": 45,
+   "points": 20.5,
+   "mem": 0,
+   "params": 90,
+   "src": "measured"
+  },
+  {
+   "task": 46,
+   "points": 17.357,
+   "mem": 1999,
+   "params": 86,
+   "src": "measured"
+  },
+  {
+   "task": 47,
+   "points": 18.241,
+   "mem": 826,
+   "params": 36,
+   "src": "measured"
+  },
+  {
+   "task": 48,
+   "points": 18.312,
+   "mem": 688,
+   "params": 115,
+   "src": "measured"
+  },
+  {
+   "task": 49,
+   "points": 19.16,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 50,
+   "points": 16.994,
+   "mem": 2925,
+   "params": 75,
+   "src": "measured"
+  },
+  {
+   "task": 51,
+   "points": 17.536,
+   "mem": 1643,
+   "params": 101,
+   "src": "measured"
+  },
+  {
+   "task": 52,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 53,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 54,
+   "points": 14.858,
+   "mem": 25201,
+   "params": 193,
+   "src": "measured"
+  },
+  {
+   "task": 55,
+   "points": 17.474,
+   "mem": 1680,
+   "params": 176,
+   "src": "measured"
+  },
+  {
+   "task": 56,
+   "points": 21.599,
+   "mem": 19,
+   "params": 11,
+   "src": "measured"
+  },
+  {
+   "task": 57,
+   "points": 18.496,
+   "mem": 638,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 58,
+   "points": 19.639,
+   "mem": 18,
+   "params": 195,
+   "src": "measured"
+  },
+  {
+   "task": 59,
+   "points": 18.696,
+   "mem": 257,
+   "params": 290,
+   "src": "measured"
+  },
+  {
+   "task": 60,
+   "points": 20.14,
+   "mem": 0,
+   "params": 129,
+   "src": "measured"
+  },
+  {
+   "task": 61,
+   "points": 17.581,
+   "mem": 1633,
+   "params": 35,
+   "src": "measured"
+  },
+  {
+   "task": 62,
+   "points": 17.166,
+   "mem": 2465,
+   "params": 59,
+   "src": "measured"
+  },
+  {
+   "task": 63,
+   "points": 17.558,
+   "mem": 1680,
+   "params": 26,
+   "src": "measured"
+  },
+  {
+   "task": 64,
+   "points": 15.969,
+   "mem": 8346,
+   "params": 10,
+   "src": "measured"
+  },
+  {
+   "task": 65,
+   "points": 18.606,
+   "mem": 550,
+   "params": 48,
+   "src": "measured"
+  },
+  {
+   "task": 66,
+   "points": 15.718,
+   "mem": 10550,
+   "params": 194,
+   "src": "measured"
+  },
+  {
+   "task": 67,
+   "points": 25.0,
+   "mem": 0,
+   "params": 0,
+   "src": "measured"
+  },
+  {
+   "task": 68,
+   "points": 18.565,
+   "mem": 500,
+   "params": 123,
+   "src": "measured"
+  },
+  {
+   "task": 69,
+   "points": 17.011,
+   "mem": 2864,
+   "params": 85,
+   "src": "measured"
+  },
+  {
+   "task": 70,
+   "points": 17.572,
+   "mem": 1440,
+   "params": 242,
+   "src": "measured"
+  },
+  {
+   "task": 71,
+   "points": 17.113,
+   "mem": 2607,
+   "params": 56,
+   "src": "measured"
+  },
+  {
+   "task": 72,
+   "points": 18.96,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 73,
+   "points": 21.822,
+   "mem": 0,
+   "params": 24,
+   "src": "measured"
+  },
+  {
+   "task": 74,
+   "points": 15.964,
+   "mem": 7336,
+   "params": 1062,
+   "src": "measured"
+  },
+  {
+   "task": 75,
+   "points": 18.674,
+   "mem": 0,
+   "params": 559,
+   "src": "measured"
+  },
+  {
+   "task": 76,
+   "points": 15.536,
+   "mem": 12798,
+   "params": 88,
+   "src": "measured"
+  },
+  {
+   "task": 77,
+   "points": 16.057,
+   "mem": 7620,
+   "params": 37,
+   "src": "measured"
+  },
+  {
+   "task": 78,
+   "points": 20.593,
+   "mem": 0,
+   "params": 82,
+   "src": "measured"
+  },
+  {
+   "task": 79,
+   "points": 18.369,
+   "mem": 679,
+   "params": 79,
+   "src": "measured"
+  },
+  {
+   "task": 80,
+   "points": 15.87,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:inexact 246/266"
+  },
+  {
+   "task": 81,
+   "points": 18.86,
+   "mem": 392,
+   "params": 72,
+   "src": "measured"
+  },
+  {
+   "task": 82,
+   "points": 19.753,
+   "mem": 0,
+   "params": 190,
+   "src": "measured"
+  },
+  {
+   "task": 83,
+   "points": 19.653,
+   "mem": 0,
+   "params": 210,
+   "src": "measured"
+  },
+  {
+   "task": 84,
+   "points": 18.962,
+   "mem": 24,
+   "params": 395,
+   "src": "measured"
+  },
+  {
+   "task": 85,
+   "points": 17.168,
+   "mem": 2396,
+   "params": 123,
+   "src": "measured"
+  },
+  {
+   "task": 86,
+   "points": 16.95,
+   "mem": 2946,
+   "params": 188,
+   "src": "measured"
+  },
+  {
+   "task": 87,
+   "points": 23.391,
+   "mem": 0,
+   "params": 5,
+   "src": "measured"
+  },
+  {
+   "task": 88,
+   "points": 17.465,
+   "mem": 1791,
+   "params": 81,
+   "src": "measured"
+  },
+  {
+   "task": 89,
+   "points": 16.835,
+   "mem": 3479,
+   "params": 38,
+   "src": "measured"
+  },
+  {
+   "task": 90,
+   "points": 16.975,
+   "mem": 2973,
+   "params": 82,
+   "src": "measured"
+  },
+  {
+   "task": 91,
+   "points": 17.236,
+   "mem": 2323,
+   "params": 32,
+   "src": "measured"
+  },
+  {
+   "task": 92,
+   "points": 16.212,
+   "mem": 6375,
+   "params": 178,
+   "src": "measured"
+  },
+  {
+   "task": 93,
+   "points": 16.89,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 94,
+   "points": 17.108,
+   "mem": 2558,
+   "params": 119,
+   "src": "measured"
+  },
+  {
+   "task": 95,
+   "points": 19.662,
+   "mem": 0,
+   "params": 208,
+   "src": "measured"
+  },
+  {
+   "task": 96,
+   "points": 16.054,
+   "mem": 7260,
+   "params": 418,
+   "src": "measured"
+  },
+  {
+   "task": 97,
+   "points": 18.187,
+   "mem": 0,
+   "params": 910,
+   "src": "measured"
+  },
+  {
+   "task": 98,
+   "points": 18.198,
+   "mem": 0,
+   "params": 900,
+   "src": "measured"
+  },
+  {
+   "task": 99,
+   "points": 18.777,
+   "mem": 0,
+   "params": 504,
+   "src": "measured"
+  },
+  {
+   "task": 100,
+   "points": 19.791,
+   "mem": 174,
+   "params": 9,
+   "src": "measured"
+  },
+  {
+   "task": 101,
+   "points": 15.471,
+   "mem": 12928,
+   "params": 818,
+   "src": "measured"
+  },
+  {
+   "task": 102,
+   "points": 17.165,
+   "mem": 2414,
+   "params": 113,
+   "src": "measured"
+  },
+  {
+   "task": 103,
+   "points": 20.906,
+   "mem": 36,
+   "params": 24,
+   "src": "measured"
+  },
+  {
+   "task": 104,
+   "points": 20.229,
+   "mem": 0,
+   "params": 118,
+   "src": "measured"
+  },
+  {
+   "task": 105,
+   "points": 17.709,
+   "mem": 1254,
+   "params": 213,
+   "src": "measured"
+  },
+  {
+   "task": 106,
+   "points": 18.561,
+   "mem": 452,
+   "params": 174,
+   "src": "measured"
+  },
+  {
+   "task": 107,
+   "points": 16.81,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 108,
+   "points": 19.989,
+   "mem": 0,
+   "params": 150,
+   "src": "measured"
+  },
+  {
+   "task": 109,
+   "points": 17.595,
+   "mem": 1546,
+   "params": 99,
+   "src": "measured"
+  },
+  {
+   "task": 110,
+   "points": 15.757,
+   "mem": 10104,
+   "params": 223,
+   "src": "measured"
+  },
+  {
+   "task": 111,
+   "points": 19.267,
+   "mem": 223,
+   "params": 86,
+   "src": "measured"
+  },
+  {
+   "task": 112,
+   "points": 17.522,
+   "mem": 1616,
+   "params": 153,
+   "src": "measured"
+  },
+  {
+   "task": 113,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 114,
+   "points": 19.475,
+   "mem": 0,
+   "params": 251,
+   "src": "measured"
+  },
+  {
+   "task": 115,
+   "points": 18.078,
+   "mem": 944,
+   "params": 70,
+   "src": "measured"
+  },
+  {
+   "task": 116,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 117,
+   "points": 16.759,
+   "mem": 3592,
+   "params": 203,
+   "src": "measured"
+  },
+  {
+   "task": 118,
+   "points": 15.929,
+   "mem": 8575,
+   "params": 124,
+   "src": "measured"
+  },
+  {
+   "task": 119,
+   "points": 17.783,
+   "mem": 1243,
+   "params": 120,
+   "src": "measured"
+  },
+  {
+   "task": 120,
+   "points": 18.187,
+   "mem": 0,
+   "params": 910,
+   "src": "measured"
+  },
+  {
+   "task": 121,
+   "points": 19.213,
+   "mem": 260,
+   "params": 66,
+   "src": "measured"
+  },
+  {
+   "task": 122,
+   "points": 18.303,
+   "mem": 0,
+   "params": 810,
+   "src": "measured"
+  },
+  {
+   "task": 123,
+   "points": 17.798,
+   "mem": 403,
+   "params": 939,
+   "src": "measured"
+  },
+  {
+   "task": 124,
+   "points": 17.423,
+   "mem": 1879,
+   "params": 74,
+   "src": "measured"
+  },
+  {
+   "task": 125,
+   "points": 16.85,
+   "mem": 3434,
+   "params": 29,
+   "src": "measured"
+  },
+  {
+   "task": 126,
+   "points": 18.595,
+   "mem": 590,
+   "params": 15,
+   "src": "measured"
+  },
+  {
+   "task": 127,
+   "points": 19.019,
+   "mem": 204,
+   "params": 192,
+   "src": "measured"
+  },
+  {
+   "task": 128,
+   "points": 20.087,
+   "mem": 0,
+   "params": 136,
+   "src": "measured"
+  },
+  {
+   "task": 129,
+   "points": 20.618,
+   "mem": 80,
+   "params": 0,
+   "src": "measured"
+  },
+  {
+   "task": 130,
+   "points": 22.004,
+   "mem": 0,
+   "params": 20,
+   "src": "measured"
+  },
+  {
+   "task": 131,
+   "points": 16.733,
+   "mem": 3250,
+   "params": 644,
+   "src": "measured"
+  },
+  {
+   "task": 132,
+   "points": 17.861,
+   "mem": 1176,
+   "params": 84,
+   "src": "measured"
+  },
+  {
+   "task": 133,
+   "points": 15.033,
+   "mem": 20306,
+   "params": 1016,
+   "src": "measured"
+  },
+  {
+   "task": 134,
+   "points": 17.665,
+   "mem": 1427,
+   "params": 106,
+   "src": "measured"
+  },
+  {
+   "task": 135,
+   "points": 19.702,
+   "mem": 0,
+   "params": 200,
+   "src": "measured"
+  },
+  {
+   "task": 136,
+   "points": 17.915,
+   "mem": 1159,
+   "params": 35,
+   "src": "measured"
+  },
+  {
+   "task": 137,
+   "points": 16.872,
+   "mem": 3263,
+   "params": 126,
+   "src": "measured"
+  },
+  {
+   "task": 138,
+   "points": 15.604,
+   "mem": 11840,
+   "params": 202,
+   "src": "measured"
+  },
+  {
+   "task": 139,
+   "points": 19.036,
+   "mem": 16,
+   "params": 373,
+   "src": "measured"
+  },
+  {
+   "task": 140,
+   "points": 23.391,
+   "mem": 0,
+   "params": 5,
+   "src": "measured"
+  },
+  {
+   "task": 141,
+   "points": 17.768,
+   "mem": 1281,
+   "params": 102,
+   "src": "measured"
+  },
+  {
+   "task": 142,
+   "points": 20.5,
+   "mem": 0,
+   "params": 90,
+   "src": "measured"
+  },
+  {
+   "task": 143,
+   "points": 18.346,
+   "mem": 502,
+   "params": 274,
+   "src": "measured"
+  },
+  {
+   "task": 144,
+   "points": 20.395,
+   "mem": 0,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 145,
+   "points": 15.539,
+   "mem": 12744,
+   "params": 111,
+   "src": "measured"
+  },
+  {
+   "task": 146,
+   "points": 19.42,
+   "mem": 165,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 147,
+   "points": 18.723,
+   "mem": 432,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 148,
+   "points": 16.51,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 1 : FAIL : This is "
+  },
+  {
+   "task": 149,
+   "points": 20.087,
+   "mem": 36,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 150,
+   "points": 20.073,
+   "mem": 136,
+   "params": 2,
+   "src": "measured"
+  },
+  {
+   "task": 151,
+   "points": 18.198,
+   "mem": 0,
+   "params": 900,
+   "src": "measured"
+  },
+  {
+   "task": 152,
+   "points": 20.906,
+   "mem": 0,
+   "params": 60,
+   "src": "measured"
+  },
+  {
+   "task": 153,
+   "points": 18.324,
+   "mem": 741,
+   "params": 52,
+   "src": "measured"
+  },
+  {
+   "task": 154,
+   "points": 17.107,
+   "mem": 2581,
+   "params": 98,
+   "src": "measured"
+  },
+  {
+   "task": 155,
+   "points": 20.073,
+   "mem": 136,
+   "params": 2,
+   "src": "measured"
+  },
+  {
+   "task": 156,
+   "points": 17.78,
+   "mem": 1310,
+   "params": 57,
+   "src": "measured"
+  },
+  {
+   "task": 157,
+   "points": 16.696,
+   "mem": 3847,
+   "params": 192,
+   "src": "measured"
+  },
+  {
+   "task": 158,
+   "points": 15.171,
+   "mem": 17884,
+   "params": 676,
+   "src": "measured"
+  },
+  {
+   "task": 159,
+   "points": 17.642,
+   "mem": 1419,
+   "params": 149,
+   "src": "measured"
+  },
+  {
+   "task": 160,
+   "points": 17.804,
+   "mem": 1164,
+   "params": 170,
+   "src": "measured"
+  },
+  {
+   "task": 161,
+   "points": 19.383,
+   "mem": 190,
+   "params": 85,
+   "src": "measured"
+  },
+  {
+   "task": 162,
+   "points": 16.839,
+   "mem": 3320,
+   "params": 180,
+   "src": "measured"
+  },
+  {
+   "task": 163,
+   "points": 19.263,
+   "mem": 0,
+   "params": 310,
+   "src": "measured"
+  },
+  {
+   "task": 164,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 165,
+   "points": 16.577,
+   "mem": 4386,
+   "params": 166,
+   "src": "measured"
+  },
+  {
+   "task": 166,
+   "points": 21.822,
+   "mem": 0,
+   "params": 24,
+   "src": "measured"
+  },
+  {
+   "task": 167,
+   "points": 20.02,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 168,
+   "points": 17.287,
+   "mem": 2096,
+   "params": 141,
+   "src": "measured"
+  },
+  {
+   "task": 169,
+   "points": 17.579,
+   "mem": 1500,
+   "params": 170,
+   "src": "measured"
+  },
+  {
+   "task": 170,
+   "points": 17.338,
+   "mem": 2056,
+   "params": 69,
+   "src": "measured"
+  },
+  {
+   "task": 171,
+   "points": 18.974,
+   "mem": 324,
+   "params": 90,
+   "src": "measured"
+  },
+  {
+   "task": 172,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 173,
+   "points": 15.498,
+   "mem": 13307,
+   "params": 76,
+   "src": "measured"
+  },
+  {
+   "task": 174,
+   "points": 16.699,
+   "mem": 3805,
+   "params": 222,
+   "src": "measured"
+  },
+  {
+   "task": 175,
+   "points": 17.865,
+   "mem": 318,
+   "params": 937,
+   "src": "measured"
+  },
+  {
+   "task": 176,
+   "points": 19.653,
+   "mem": 0,
+   "params": 210,
+   "src": "measured"
+  },
+  {
+   "task": 177,
+   "points": 16.914,
+   "mem": 3200,
+   "params": 49,
+   "src": "measured"
+  },
+  {
+   "task": 178,
+   "points": 18.364,
+   "mem": 702,
+   "params": 60,
+   "src": "measured"
+  },
+  {
+   "task": 179,
+   "points": 25.0,
+   "mem": 0,
+   "params": 0,
+   "src": "measured"
+  },
+  {
+   "task": 180,
+   "points": 19.653,
+   "mem": 0,
+   "params": 210,
+   "src": "measured"
+  },
+  {
+   "task": 181,
+   "points": 19.092,
+   "mem": 201,
+   "params": 167,
+   "src": "measured"
+  },
+  {
+   "task": 182,
+   "points": 16.346,
+   "mem": 5656,
+   "params": 78,
+   "src": "measured"
+  },
+  {
+   "task": 183,
+   "points": 18.315,
+   "mem": 727,
+   "params": 73,
+   "src": "measured"
+  },
+  {
+   "task": 184,
+   "points": 17.38,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:inexact 257/266"
+  },
+  {
+   "task": 185,
+   "points": 17.422,
+   "mem": 1651,
+   "params": 304,
+   "src": "measured"
+  },
+  {
+   "task": 186,
+   "points": 20.365,
+   "mem": 80,
+   "params": 23,
+   "src": "measured"
+  },
+  {
+   "task": 187,
+   "points": 15.333,
+   "mem": 15285,
+   "params": 505,
+   "src": "measured"
+  },
+  {
+   "task": 188,
+   "points": 20.273,
+   "mem": 53,
+   "params": 60,
+   "src": "measured"
+  },
+  {
+   "task": 189,
+   "points": 18.207,
+   "mem": 837,
+   "params": 55,
+   "src": "measured"
+  },
+  {
+   "task": 190,
+   "points": 17.588,
+   "mem": 1610,
+   "params": 46,
+   "src": "measured"
+  },
+  {
+   "task": 191,
+   "points": 15.687,
+   "mem": 11009,
+   "params": 73,
+   "src": "measured"
+  },
+  {
+   "task": 192,
+   "points": 16.416,
+   "mem": 5272,
+   "params": 74,
+   "src": "measured"
+  },
+  {
+   "task": 193,
+   "points": 18.187,
+   "mem": 0,
+   "params": 910,
+   "src": "measured"
+  },
+  {
+   "task": 194,
+   "points": 18.145,
+   "mem": 900,
+   "params": 49,
+   "src": "measured"
+  },
+  {
+   "task": 195,
+   "points": 18.17,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 196,
+   "points": 16.58,
+   "mem": 4500,
+   "params": 36,
+   "src": "measured"
+  },
+  {
+   "task": 197,
+   "points": 17.96,
+   "mem": 1100,
+   "params": 41,
+   "src": "measured"
+  },
+  {
+   "task": 198,
+   "points": 16.023,
+   "mem": 7164,
+   "params": 758,
+   "src": "measured"
+  },
+  {
+   "task": 199,
+   "points": 18.191,
+   "mem": 802,
+   "params": 104,
+   "src": "measured"
+  },
+  {
+   "task": 200,
+   "points": 18.565,
+   "mem": 420,
+   "params": 203,
+   "src": "measured"
+  },
+  {
+   "task": 201,
+   "points": 16.978,
+   "mem": 2876,
+   "params": 170,
+   "src": "measured"
+  },
+  {
+   "task": 202,
+   "points": 16.59,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:inexact 256/267"
+  },
+  {
+   "task": 203,
+   "points": 19.625,
+   "mem": 194,
+   "params": 22,
+   "src": "measured"
+  },
+  {
+   "task": 204,
+   "points": 15.767,
+   "mem": 9780,
+   "params": 452,
+   "src": "measured"
+  },
+  {
+   "task": 205,
+   "points": 17.358,
+   "mem": 2050,
+   "params": 34,
+   "src": "measured"
+  },
+  {
+   "task": 206,
+   "points": 17.512,
+   "mem": 1652,
+   "params": 135,
+   "src": "measured"
+  },
+  {
+   "task": 207,
+   "points": 20.264,
+   "mem": 0,
+   "params": 114,
+   "src": "measured"
+  },
+  {
+   "task": 208,
+   "points": 16.66,
+   "mem": 4056,
+   "params": 133,
+   "src": "measured"
+  },
+  {
+   "task": 209,
+   "points": 16.041,
+   "mem": 7508,
+   "params": 267,
+   "src": "measured"
+  },
+  {
+   "task": 210,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 211,
+   "points": 20.164,
+   "mem": 0,
+   "params": 126,
+   "src": "measured"
+  },
+  {
+   "task": 212,
+   "points": 18.979,
+   "mem": 0,
+   "params": 412,
+   "src": "measured"
+  },
+  {
+   "task": 213,
+   "points": 17.477,
+   "mem": 1802,
+   "params": 48,
+   "src": "measured"
+  },
+  {
+   "task": 214,
+   "points": 18.737,
+   "mem": 402,
+   "params": 123,
+   "src": "measured"
+  },
+  {
+   "task": 215,
+   "points": 18.556,
+   "mem": 531,
+   "params": 98,
+   "src": "measured"
+  },
+  {
+   "task": 216,
+   "points": 15.919,
+   "mem": 8694,
+   "params": 93,
+   "src": "measured"
+  },
+  {
+   "task": 217,
+   "points": 17.707,
+   "mem": 1429,
+   "params": 41,
+   "src": "measured"
+  },
+  {
+   "task": 218,
+   "points": 18.525,
+   "mem": 552,
+   "params": 97,
+   "src": "measured"
+  },
+  {
+   "task": 219,
+   "points": 15.927,
+   "mem": 8633,
+   "params": 82,
+   "src": "measured"
+  },
+  {
+   "task": 220,
+   "points": 18.92,
+   "mem": 132,
+   "params": 305,
+   "src": "measured"
+  },
+  {
+   "task": 221,
+   "points": 18.309,
+   "mem": 451,
+   "params": 354,
+   "src": "measured"
+  },
+  {
+   "task": 222,
+   "points": 17.087,
+   "mem": 1742,
+   "params": 991,
+   "src": "measured"
+  },
+  {
+   "task": 223,
+   "points": 23.391,
+   "mem": 0,
+   "params": 5,
+   "src": "measured"
+  },
+  {
+   "task": 224,
+   "points": 17.46,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 225,
+   "points": 19.106,
+   "mem": 0,
+   "params": 363,
+   "src": "measured"
+  },
+  {
+   "task": 226,
+   "points": 17.664,
+   "mem": 1513,
+   "params": 21,
+   "src": "measured"
+  },
+  {
+   "task": 227,
+   "points": 20.395,
+   "mem": 0,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 228,
+   "points": 18.131,
+   "mem": 849,
+   "params": 113,
+   "src": "measured"
+  },
+  {
+   "task": 229,
+   "points": 19.807,
+   "mem": 80,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 230,
+   "points": 18.198,
+   "mem": 0,
+   "params": 900,
+   "src": "measured"
+  },
+  {
+   "task": 231,
+   "points": 19.876,
+   "mem": 156,
+   "params": 12,
+   "src": "measured"
+  },
+  {
+   "task": 232,
+   "points": 17.749,
+   "mem": 0,
+   "params": 1410,
+   "src": "measured"
+  },
+  {
+   "task": 233,
+   "points": 14.626,
+   "mem": 31272,
+   "params": 739,
+   "src": "measured"
+  },
+  {
+   "task": 234,
+   "points": 16.84,
+   "mem": 3443,
+   "params": 55,
+   "src": "measured"
+  },
+  {
+   "task": 235,
+   "points": 20.14,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 236,
+   "points": 20.16,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 237,
+   "points": 18.414,
+   "mem": 108,
+   "params": 617,
+   "src": "measured"
+  },
+  {
+   "task": 238,
+   "points": 17.432,
+   "mem": 1620,
+   "params": 315,
+   "src": "measured"
+  },
+  {
+   "task": 239,
+   "points": 18.147,
+   "mem": 897,
+   "params": 50,
+   "src": "measured"
+  },
+  {
+   "task": 240,
+   "points": 18.852,
+   "mem": 0,
+   "params": 468,
+   "src": "measured"
+  },
+  {
+   "task": 241,
+   "points": 25.0,
+   "mem": 0,
+   "params": 0,
+   "src": "measured"
+  },
+  {
+   "task": 242,
+   "points": 18.934,
+   "mem": 372,
+   "params": 59,
+   "src": "measured"
+  },
+  {
+   "task": 243,
+   "points": 15.721,
+   "mem": 10298,
+   "params": 412,
+   "src": "measured"
+  },
+  {
+   "task": 244,
+   "points": 18.886,
+   "mem": 45,
+   "params": 407,
+   "src": "measured"
+  },
+  {
+   "task": 245,
+   "points": 17.13,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 246,
+   "points": 17.85,
+   "mem": 1182,
+   "params": 92,
+   "src": "measured"
+  },
+  {
+   "task": 247,
+   "points": 18.867,
+   "mem": 400,
+   "params": 61,
+   "src": "measured"
+  },
+  {
+   "task": 248,
+   "points": 19.98,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 249,
+   "points": 19.672,
+   "mem": 183,
+   "params": 23,
+   "src": "measured"
+  },
+  {
+   "task": 250,
+   "points": 17.339,
+   "mem": 2052,
+   "params": 71,
+   "src": "measured"
+  },
+  {
+   "task": 251,
+   "points": 17.113,
+   "mem": 2628,
+   "params": 35,
+   "src": "measured"
+  },
+  {
+   "task": 252,
+   "points": 20.436,
+   "mem": 0,
+   "params": 96,
+   "src": "measured"
+  },
+  {
+   "task": 253,
+   "points": 18.785,
+   "mem": 320,
+   "params": 180,
+   "src": "measured"
+  },
+  {
+   "task": 254,
+   "points": 19.463,
+   "mem": 88,
+   "params": 166,
+   "src": "measured"
+  },
+  {
+   "task": 255,
+   "points": 16.304,
+   "mem": 5921,
+   "params": 55,
+   "src": "measured"
+  },
+  {
+   "task": 256,
+   "points": 17.344,
+   "mem": 2055,
+   "params": 59,
+   "src": "measured"
+  },
+  {
+   "task": 257,
+   "points": 20.264,
+   "mem": 0,
+   "params": 114,
+   "src": "measured"
+  },
+  {
+   "task": 258,
+   "points": 19.989,
+   "mem": 0,
+   "params": 150,
+   "src": "measured"
+  },
+  {
+   "task": 259,
+   "points": 18.207,
+   "mem": 844,
+   "params": 48,
+   "src": "measured"
+  },
+  {
+   "task": 260,
+   "points": 17.639,
+   "mem": 1289,
+   "params": 285,
+   "src": "measured"
+  },
+  {
+   "task": 261,
+   "points": 19.702,
+   "mem": 0,
+   "params": 200,
+   "src": "measured"
+  },
+  {
+   "task": 262,
+   "points": 20.696,
+   "mem": 48,
+   "params": 26,
+   "src": "measured"
+  },
+  {
+   "task": 263,
+   "points": 18.71,
+   "mem": 441,
+   "params": 98,
+   "src": "measured"
+  },
+  {
+   "task": 264,
+   "points": 17.246,
+   "mem": 940,
+   "params": 1391,
+   "src": "measured"
+  },
+  {
+   "task": 265,
+   "points": 16.62,
+   "mem": 4325,
+   "params": 32,
+   "src": "measured"
+  },
+  {
+   "task": 266,
+   "points": 19.835,
+   "mem": 75,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 267,
+   "points": 18.369,
+   "mem": 724,
+   "params": 34,
+   "src": "measured"
+  },
+  {
+   "task": 268,
+   "points": 16.996,
+   "mem": 2940,
+   "params": 53,
+   "src": "measured"
+  },
+  {
+   "task": 269,
+   "points": 18.436,
+   "mem": 685,
+   "params": 24,
+   "src": "measured"
+  },
+  {
+   "task": 270,
+   "points": 17.042,
+   "mem": 1826,
+   "params": 1032,
+   "src": "measured"
+  },
+  {
+   "task": 271,
+   "points": 17.921,
+   "mem": 1141,
+   "params": 46,
+   "src": "measured"
+  },
+  {
+   "task": 272,
+   "points": 20.003,
+   "mem": 0,
+   "params": 148,
+   "src": "measured"
+  },
+  {
+   "task": 273,
+   "points": 18.637,
+   "mem": 0,
+   "params": 580,
+   "src": "measured"
+  },
+  {
+   "task": 274,
+   "points": 19.835,
+   "mem": 138,
+   "params": 37,
+   "src": "measured"
+  },
+  {
+   "task": 275,
+   "points": 17.788,
+   "mem": 493,
+   "params": 863,
+   "src": "measured"
+  },
+  {
+   "task": 276,
+   "points": 22.697,
+   "mem": 0,
+   "params": 10,
+   "src": "measured"
+  },
+  {
+   "task": 277,
+   "points": 16.889,
+   "mem": 3002,
+   "params": 329,
+   "src": "measured"
+  },
+  {
+   "task": 278,
+   "points": 16.587,
+   "mem": 4464,
+   "params": 41,
+   "src": "measured"
+  },
+  {
+   "task": 279,
+   "points": 16.378,
+   "mem": 5508,
+   "params": 45,
+   "src": "measured"
+  },
+  {
+   "task": 280,
+   "points": 16.568,
+   "mem": 3826,
+   "params": 765,
+   "src": "measured"
+  },
+  {
+   "task": 281,
+   "points": 17.808,
+   "mem": 1188,
+   "params": 141,
+   "src": "measured"
+  },
+  {
+   "task": 282,
+   "points": 18.9,
+   "mem": 407,
+   "params": 39,
+   "src": "measured"
+  },
+  {
+   "task": 283,
+   "points": 18.535,
+   "mem": 500,
+   "params": 142,
+   "src": "measured"
+  },
+  {
+   "task": 284,
+   "points": 17.176,
+   "mem": 2334,
+   "params": 167,
+   "src": "measured"
+  },
+  {
+   "task": 285,
+   "points": 15.165,
+   "mem": 18256,
+   "params": 418,
+   "src": "measured"
+  },
+  {
+   "task": 286,
+   "points": 14.8,
+   "mem": 26064,
+   "params": 845,
+   "src": "measured"
+  },
+  {
+   "task": 287,
+   "points": 19.753,
+   "mem": 0,
+   "params": 190,
+   "src": "measured"
+  },
+  {
+   "task": 288,
+   "points": 18.556,
+   "mem": 598,
+   "params": 31,
+   "src": "measured"
+  },
+  {
+   "task": 289,
+   "points": 18.391,
+   "mem": 618,
+   "params": 124,
+   "src": "measured"
+  },
+  {
+   "task": 290,
+   "points": 19.355,
+   "mem": 266,
+   "params": 17,
+   "src": "measured"
+  },
+  {
+   "task": 291,
+   "points": 21.311,
+   "mem": 0,
+   "params": 40,
+   "src": "measured"
+  },
+  {
+   "task": 292,
+   "points": 20.618,
+   "mem": 0,
+   "params": 80,
+   "src": "measured"
+  },
+  {
+   "task": 293,
+   "points": 21.311,
+   "mem": 0,
+   "params": 40,
+   "src": "measured"
+  },
+  {
+   "task": 294,
+   "points": 18.601,
+   "mem": 500,
+   "params": 101,
+   "src": "measured"
+  },
+  {
+   "task": 295,
+   "points": 17.62,
+   "mem": 1557,
+   "params": 47,
+   "src": "measured"
+  },
+  {
+   "task": 296,
+   "points": 20.5,
+   "mem": 0,
+   "params": 90,
+   "src": "measured"
+  },
+  {
+   "task": 297,
+   "points": 17.764,
+   "mem": 1350,
+   "params": 39,
+   "src": "measured"
+  },
+  {
+   "task": 298,
+   "points": 20.906,
+   "mem": 0,
+   "params": 60,
+   "src": "measured"
+  },
+  {
+   "task": 299,
+   "points": 21.088,
+   "mem": 0,
+   "params": 50,
+   "src": "measured"
+  },
+  {
+   "task": 300,
+   "points": 18.735,
+   "mem": 467,
+   "params": 59,
+   "src": "measured"
+  },
+  {
+   "task": 301,
+   "points": 17.96,
+   "mem": 1077,
+   "params": 64,
+   "src": "measured"
+  },
+  {
+   "task": 302,
+   "points": 17.519,
+   "mem": 1216,
+   "params": 558,
+   "src": "measured"
+  },
+  {
+   "task": 303,
+   "points": 17.721,
+   "mem": 1428,
+   "params": 22,
+   "src": "measured"
+  },
+  {
+   "task": 304,
+   "points": 19.296,
+   "mem": 0,
+   "params": 300,
+   "src": "measured"
+  },
+  {
+   "task": 305,
+   "points": 18.545,
+   "mem": 296,
+   "params": 340,
+   "src": "measured"
+  },
+  {
+   "task": 306,
+   "points": 19.606,
+   "mem": 0,
+   "params": 220,
+   "src": "measured"
+  },
+  {
+   "task": 307,
+   "points": 23.391,
+   "mem": 0,
+   "params": 5,
+   "src": "measured"
+  },
+  {
+   "task": 308,
+   "points": 17.708,
+   "mem": 1365,
+   "params": 103,
+   "src": "measured"
+  },
+  {
+   "task": 309,
+   "points": 22.697,
+   "mem": 0,
+   "params": 10,
+   "src": "measured"
+  },
+  {
+   "task": 310,
+   "points": 18.615,
+   "mem": 230,
+   "params": 363,
+   "src": "measured"
+  },
+  {
+   "task": 311,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 312,
+   "points": 22.004,
+   "mem": 0,
+   "params": 20,
+   "src": "measured"
+  },
+  {
+   "task": 313,
+   "points": 19.841,
+   "mem": 0,
+   "params": 174,
+   "src": "measured"
+  },
+  {
+   "task": 314,
+   "points": 20.395,
+   "mem": 0,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 315,
+   "points": 19.562,
+   "mem": 0,
+   "params": 230,
+   "src": "measured"
+  },
+  {
+   "task": 316,
+   "points": 18.994,
+   "mem": 359,
+   "params": 47,
+   "src": "measured"
+  },
+  {
+   "task": 317,
+   "points": 20.016,
+   "mem": 128,
+   "params": 18,
+   "src": "measured"
+  },
+  {
+   "task": 318,
+   "points": 20.395,
+   "mem": 0,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 319,
+   "points": 16.329,
+   "mem": 5674,
+   "params": 159,
+   "src": "measured"
+  },
+  {
+   "task": 320,
+   "points": 18.354,
+   "mem": 448,
+   "params": 322,
+   "src": "measured"
+  },
+  {
+   "task": 321,
+   "points": 19.807,
+   "mem": 0,
+   "params": 180,
+   "src": "measured"
+  },
+  {
+   "task": 322,
+   "points": 20.696,
+   "mem": 0,
+   "params": 74,
+   "src": "measured"
+  },
+  {
+   "task": 323,
+   "points": 17.6,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 324,
+   "points": 15.936,
+   "mem": 7049,
+   "params": 1590,
+   "src": "measured"
+  },
+  {
+   "task": 325,
+   "points": 17.698,
+   "mem": 517,
+   "params": 966,
+   "src": "measured"
+  },
+  {
+   "task": 326,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 327,
+   "points": 18.542,
+   "mem": 486,
+   "params": 152,
+   "src": "measured"
+  },
+  {
+   "task": 328,
+   "points": 16.251,
+   "mem": 6181,
+   "params": 123,
+   "src": "measured"
+  },
+  {
+   "task": 329,
+   "points": 18.043,
+   "mem": 1021,
+   "params": 29,
+   "src": "measured"
+  },
+  {
+   "task": 330,
+   "points": 17.34,
+   "mem": 1980,
+   "params": 141,
+   "src": "measured"
+  },
+  {
+   "task": 331,
+   "points": 18.785,
+   "mem": 400,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 332,
+   "points": 20.618,
+   "mem": 0,
+   "params": 80,
+   "src": "measured"
+  },
+  {
+   "task": 333,
+   "points": 17.216,
+   "mem": 2340,
+   "params": 61,
+   "src": "measured"
+  },
+  {
+   "task": 334,
+   "points": 20.557,
+   "mem": 36,
+   "params": 49,
+   "src": "measured"
+  },
+  {
+   "task": 335,
+   "points": 18.082,
+   "mem": 932,
+   "params": 78,
+   "src": "measured"
+  },
+  {
+   "task": 336,
+   "points": 17.61,
+   "mem": 400,
+   "params": 1219,
+   "src": "measured"
+  },
+  {
+   "task": 337,
+   "points": 22.697,
+   "mem": 0,
+   "params": 10,
+   "src": "measured"
+  },
+  {
+   "task": 338,
+   "points": 15.912,
+   "mem": 8581,
+   "params": 267,
+   "src": "measured"
+  },
+  {
+   "task": 339,
+   "points": 20.058,
+   "mem": 40,
+   "params": 100,
+   "src": "measured"
+  },
+  {
+   "task": 340,
+   "points": 16.867,
+   "mem": 3284,
+   "params": 121,
+   "src": "measured"
+  },
+  {
+   "task": 341,
+   "points": 17.737,
+   "mem": 1394,
+   "params": 33,
+   "src": "measured"
+  },
+  {
+   "task": 342,
+   "points": 18.585,
+   "mem": 514,
+   "params": 97,
+   "src": "measured"
+  },
+  {
+   "task": 343,
+   "points": 17.661,
+   "mem": 1171,
+   "params": 368,
+   "src": "measured"
+  },
+  {
+   "task": 344,
+   "points": 18.46,
+   "mem": 0,
+   "params": 692,
+   "src": "measured"
+  },
+  {
+   "task": 345,
+   "points": 17.988,
+   "mem": 0,
+   "params": 1110,
+   "src": "measured"
+  },
+  {
+   "task": 346,
+   "points": 17.866,
+   "mem": 1224,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 347,
+   "points": 20.037,
+   "mem": 117,
+   "params": 26,
+   "src": "measured"
+  },
+  {
+   "task": 348,
+   "points": 17.56,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 349,
+   "points": 15.391,
+   "mem": 13710,
+   "params": 1182,
+   "src": "measured"
+  },
+  {
+   "task": 350,
+   "points": 18.941,
+   "mem": 0,
+   "params": 428,
+   "src": "measured"
+  },
+  {
+   "task": 351,
+   "points": 18.097,
+   "mem": 937,
+   "params": 58,
+   "src": "measured"
+  },
+  {
+   "task": 352,
+   "points": 18.869,
+   "mem": 0,
+   "params": 460,
+   "src": "measured"
+  },
+  {
+   "task": 353,
+   "points": 19.503,
+   "mem": 182,
+   "params": 62,
+   "src": "measured"
+  },
+  {
+   "task": 354,
+   "points": 17.368,
+   "mem": 1990,
+   "params": 74,
+   "src": "measured"
+  },
+  {
+   "task": 355,
+   "points": 19.387,
+   "mem": 264,
+   "params": 10,
+   "src": "measured"
+  },
+  {
+   "task": 356,
+   "points": 17.82,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 357,
+   "points": 19.33,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED"
+  },
+  {
+   "task": 358,
+   "points": 17.143,
+   "mem": 2495,
+   "params": 89,
+   "src": "measured"
+  },
+  {
+   "task": 359,
+   "points": 16.637,
+   "mem": 4269,
+   "params": 15,
+   "src": "measured"
+  },
+  {
+   "task": 360,
+   "points": 19.171,
+   "mem": 0,
+   "params": 340,
+   "src": "measured"
+  },
+  {
+   "task": 361,
+   "points": 16.565,
+   "mem": 4244,
+   "params": 362,
+   "src": "measured"
+  },
+  {
+   "task": 362,
+   "points": 20.204,
+   "mem": 40,
+   "params": 81,
+   "src": "measured"
+  },
+  {
+   "task": 363,
+   "points": 16.637,
+   "mem": 4001,
+   "params": 283,
+   "src": "measured"
+  },
+  {
+   "task": 364,
+   "points": 15.408,
+   "mem": 14540,
+   "params": 102,
+   "src": "measured"
+  },
+  {
+   "task": 365,
+   "points": 17.356,
+   "mem": 2043,
+   "params": 45,
+   "src": "measured"
+  },
+  {
+   "task": 366,
+   "points": 14.69,
+   "mem": -1,
+   "params": -1,
+   "src": "b19fallback:inexact 255/266"
+  },
+  {
+   "task": 367,
+   "points": 15.458,
+   "mem": 13700,
+   "params": 226,
+   "src": "measured"
+  },
+  {
+   "task": 368,
+   "points": 17.615,
+   "mem": 1580,
+   "params": 31,
+   "src": "measured"
+  },
+  {
+   "task": 369,
+   "points": 18.229,
+   "mem": 800,
+   "params": 72,
+   "src": "measured"
+  },
+  {
+   "task": 370,
+   "points": 16.809,
+   "mem": 3108,
+   "params": 499,
+   "src": "measured"
+  },
+  {
+   "task": 371,
+   "points": 18.854,
+   "mem": 376,
+   "params": 91,
+   "src": "measured"
+  },
+  {
+   "task": 372,
+   "points": 18.435,
+   "mem": 0,
+   "params": 710,
+   "src": "measured"
+  },
+  {
+   "task": 373,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 374,
+   "points": 17.676,
+   "mem": 1473,
+   "params": 43,
+   "src": "measured"
+  },
+  {
+   "task": 375,
+   "points": 19.21,
+   "mem": 119,
+   "params": 208,
+   "src": "measured"
+  },
+  {
+   "task": 376,
+   "points": 19.774,
+   "mem": 144,
+   "params": 42,
+   "src": "measured"
+  },
+  {
+   "task": 377,
+   "points": 17.544,
+   "mem": 1644,
+   "params": 87,
+   "src": "measured"
+  },
+  {
+   "task": 378,
+   "points": 17.409,
+   "mem": 1934,
+   "params": 46,
+   "src": "measured"
+  },
+  {
+   "task": 379,
+   "points": 16.173,
+   "mem": 6701,
+   "params": 112,
+   "src": "measured"
+  },
+  {
+   "task": 380,
+   "points": 20.405,
+   "mem": 0,
+   "params": 99,
+   "src": "measured"
+  },
+  {
+   "task": 381,
+   "points": 17.531,
+   "mem": 1684,
+   "params": 69,
+   "src": "measured"
+  },
+  {
+   "task": 382,
+   "points": 16.656,
+   "mem": 4000,
+   "params": 206,
+   "src": "measured"
+  },
+  {
+   "task": 383,
+   "points": 16.805,
+   "mem": 3544,
+   "params": 77,
+   "src": "measured"
+  },
+  {
+   "task": 384,
+   "points": 18.824,
+   "mem": 428,
+   "params": 53,
+   "src": "measured"
+  },
+  {
+   "task": 385,
+   "points": 21.599,
+   "mem": 0,
+   "params": 30,
+   "src": "measured"
+  },
+  {
+   "task": 386,
+   "points": 19.648,
+   "mem": 180,
+   "params": 31,
+   "src": "measured"
+  },
+  {
+   "task": 387,
+   "points": 16.623,
+   "mem": 4228,
+   "params": 117,
+   "src": "measured"
+  },
+  {
+   "task": 388,
+   "points": 17.995,
+   "mem": 80,
+   "params": 1022,
+   "src": "measured"
+  },
+  {
+   "task": 389,
+   "points": 20.993,
+   "mem": 0,
+   "params": 55,
+   "src": "measured"
+  },
+  {
+   "task": 390,
+   "points": 17.099,
+   "mem": 2595,
+   "params": 104,
+   "src": "measured"
+  },
+  {
+   "task": 391,
+   "points": 19.931,
+   "mem": 135,
+   "params": 24,
+   "src": "measured"
+  },
+  {
+   "task": 392,
+   "points": 17.936,
+   "mem": 358,
+   "params": 811,
+   "src": "measured"
+  },
+  {
+   "task": 393,
+   "points": 20.238,
+   "mem": 105,
+   "params": 12,
+   "src": "measured"
+  },
+  {
+   "task": 394,
+   "points": 18.748,
+   "mem": 460,
+   "params": 59,
+   "src": "measured"
+  },
+  {
+   "task": 395,
+   "points": 19.894,
+   "mem": 144,
+   "params": 21,
+   "src": "measured"
+  },
+  {
+   "task": 396,
+   "points": 16.821,
+   "mem": 3482,
+   "params": 84,
+   "src": "measured"
+  },
+  {
+   "task": 397,
+   "points": 17.08,
+   "mem": 2562,
+   "params": 190,
+   "src": "measured"
+  },
+  {
+   "task": 398,
+   "points": 17.305,
+   "mem": 1006,
+   "params": 1192,
+   "src": "measured"
+  },
+  {
+   "task": 399,
+   "points": 20.906,
+   "mem": 31,
+   "params": 29,
+   "src": "measured"
+  },
+  {
+   "task": 400,
+   "points": 17.926,
+   "mem": 1172,
+   "params": 9,
+   "src": "measured"
+  }
+ ],
+ "total_points": 7364.01
+}

@@ -1,0 +1,585 @@
+{
+ "157": {
+  "inc": {
+   "pts": 13.45,
+   "fails": 7,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "a97f7a4e8b25aa128c17078229b511f6",
+    "fails": 62,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "frank",
+    "md5": "7a182875248f51b83df13d60a01acc66",
+    "fails": 62,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "215e5d3351553593372490775089384f",
+    "fails": 64,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "prv7266",
+    "md5": "6c1ea434e52be61775093d2469a071bc",
+    "fails": 62,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "ryo66",
+    "md5": "74b0273f0f3129230a2e8c773eaba09e",
+    "fails": 62,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "5ddbbdc2ce6bb6a12a9ee88526bf26fb",
+    "fails": 64,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   }
+  ]
+ },
+ "209": {
+  "inc": {
+   "pts": 13.62,
+   "fails": 12,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "e8d3096bb83312a5728c7ed7d8b650dd",
+    "fails": 46,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "53b06ec4664ddd296954b011ce2928fb",
+    "fails": 167,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "87634b801bc8b6b619df77a4173cd19f",
+    "fails": 46,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   }
+  ]
+ },
+ "17": {
+  "inc": {
+   "pts": 14.19,
+   "fails": 0,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "01193babd5c9e8ac649d6e9aa21b4a90",
+    "fails": 16,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "frank",
+    "md5": "e73e5d1c726de7b561c5f620a7de3f02",
+    "fails": 16,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "b26fe827d9436f66889f4ea3e2b6ed5e",
+    "fails": 16,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "d00a0424d247d3b3f4c1791a9f3a74c7",
+    "fails": 16,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   }
+  ]
+ },
+ "5": {
+  "inc": {
+   "pts": 14.25,
+   "fails": 0,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "4518185e38193f8830491d8f78e21548",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "koji",
+    "md5": "e5c5dc8226318b8d84f2d04be9be1ae4",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "poby7240",
+    "md5": "f22e765878c07d41bc125f4ff320b70b",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "udit",
+    "md5": "a84db80590ca462e015bd44bd3b91bb4",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   }
+  ]
+ },
+ "319": {
+  "inc": {
+   "pts": 15.0,
+   "fails": 4,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "fcd084a09c8a68200c61d8b8009ecd7b",
+    "fails": 101,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "frank",
+    "md5": "23d9a9133e4aed7091dc8a1b9932c108",
+    "fails": 101,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "127eb59745ac17720e6f36b4d4d24916",
+    "fails": 4,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "04dec42dfb114e605fd5c710d8deca11",
+    "fails": 97,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   }
+  ]
+ },
+ "118": {
+  "inc": {
+   "pts": 14.38,
+   "fails": 38,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "fb0d732ec3ba4890c264ab5d09e816bc",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "frank",
+    "md5": "fd61057e49de0dbd23fe5ababafe7b69",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "koji",
+    "md5": "7efff679a8e7e778f33f4f1d53aa0c3f",
+    "fails": 38,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   },
+   {
+    "pool": "poby7240",
+    "md5": "f068e4273b768f8399af9fbd16b4280b",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 1 : FAIL : /Users/runner/work/1/s/onnxruntime/core/graph/mo"
+   },
+   {
+    "pool": "udit",
+    "md5": "c56aaec73f5e31368485e37151e616db",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   }
+  ]
+ },
+ "188": {
+  "inc": {
+   "pts": 17.92,
+   "fails": 4,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "6bfa7fbbb0839d705fe38f910605a73b",
+    "fails": 25,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "frank",
+    "md5": "82f733dfaa0c8ab4e5ca4a190e312856",
+    "fails": 25,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "12ace9f957f496d3ffb17bb5696dbb2f",
+    "fails": 4,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   }
+  ]
+ },
+ "191": {
+  "inc": {
+   "pts": 15.31,
+   "fails": 0,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "607b37a44f24c3cb453f26b4c9ab3dc4",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "frank",
+    "md5": "737a9214e75b817cb8761d1152318c70",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "koji",
+    "md5": "85a23f7d5790b4db3b86020ed6c131ac",
+    "fails": 0,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "bd618cf6e33fab2366a67f35f1ec4e0e",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   }
+  ]
+ },
+ "101": {
+  "inc": {
+   "pts": 15.21,
+   "fails": 3,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "95ed6f40da6bdc0cc2be122c1281efe9",
+    "fails": 9,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "frank",
+    "md5": "a7fb226c7c5c3f2ee33e7f937d54769d",
+    "fails": 9,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "ddbf0a8afe7b4bc8f575b06b036829b1",
+    "fails": 3,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "64b40def9b21ffc36024ffddd4fdaea2",
+    "fails": 9,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   }
+  ]
+ },
+ "367": {
+  "inc": {
+   "pts": 15.28,
+   "fails": 0,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "d18e8a72f6fc88125c65daf6fd6082cd",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "frank",
+    "md5": "3dfdd217b223d7724a14462ed2686610",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "frank7250b",
+    "md5": "845afd23f1380d2fa6b495f43f88dd6e",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "koji",
+    "md5": "c2676f103be6e393ddf1b8417a633af1",
+    "fails": 0,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "b7bba1387c9d1072ac4ea4640715c67a",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   }
+  ]
+ },
+ "85": {
+  "inc": {
+   "pts": 17.04,
+   "fails": 0,
+   "optd": 0,
+   "n": 1500,
+   "err": null
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "d6dc058241954ca53e7d4a352c4cd717",
+    "fails": 8,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "frank",
+    "md5": "c0a0bcfa66553f203573f447b4e73aac",
+    "fails": 0,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   },
+   {
+    "pool": "frank7250b",
+    "md5": "2b8614affd56dda32915d278b85422a5",
+    "fails": 8,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "koji",
+    "md5": "54c3cf5c749a084b7aae6bf99ad6056d",
+    "fails": 0,
+    "optd": 0,
+    "verdict": "ADOPTABLE",
+    "err": null
+   }
+  ]
+ },
+ "233": {
+  "inc": {
+   "pts": 14.55,
+   "fails": null,
+   "optd": null,
+   "n": 1500,
+   "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "0a9dc41d7e91d5fe31457445d2f6a1da",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "frank",
+    "md5": "601bd9b1acacd3aaeff8d47268e24fea",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "koji",
+    "md5": "fc42b6317a4933fc6ab6e7872b1f44b6",
+    "fails": 1,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "ryo66",
+    "md5": "aed51618f7b7cc421569f1215517705e",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "udit",
+    "md5": "6e321455e5c6e27f019f047a5f127185",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   }
+  ]
+ },
+ "285": {
+  "inc": {
+   "pts": 15.11,
+   "fails": null,
+   "optd": null,
+   "n": 1500,
+   "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+  },
+  "cands": [
+   {
+    "pool": "agicore",
+    "md5": "e96da96657d334f8ecb7246f85f5ac65",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "frank",
+    "md5": "7ec79e29095ed008ee670f7dbd46493f",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   },
+   {
+    "pool": "koji",
+    "md5": "15980919348e2bd939a3fbf13bb9aa08",
+    "fails": 3,
+    "optd": 0,
+    "verdict": "REJECT",
+    "err": null
+   },
+   {
+    "pool": "udit",
+    "md5": "3ea18d54b8b6746a92369ae99f192202",
+    "fails": null,
+    "optd": null,
+    "verdict": "LOADERR",
+    "err": "LOADERR [ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for "
+   }
+  ]
+ }
+}

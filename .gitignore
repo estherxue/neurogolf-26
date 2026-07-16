@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Downloaded / external artifacts (regenerable, not our work)
+neurogolf_solver/agent_kit/_pools/
+neurogolf_solver/agent_kit/_arcgen/
+
+# Experimental ONNX bundles (bulk) — keep only the two final picks (force-added)
+neurogolf_solver/agent_kit/out_*/
+
+# scratch
+*.log

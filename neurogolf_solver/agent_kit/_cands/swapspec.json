@@ -1,0 +1,6 @@
+[
+ {"task":17,"path":"/Users/xingyuanxue1122/Documents/coding/neurogolf-26/.claude/worktrees/kaggle-agent-harness/neurogolf_solver/agent_kit/_cands/task017.onnx","name":"e017_dilated_kv14ok"},
+ {"task":209,"path":"/Users/xingyuanxue1122/Documents/coding/neurogolf-26/.claude/worktrees/kaggle-agent-harness/neurogolf_solver/agent_kit/_cands/task209.onnx","name":"ed209b_u8"},
+ {"task":5,"path":"/Users/xingyuanxue1122/Documents/coding/neurogolf-26/.claude/worktrees/kaggle-agent-harness/neurogolf_solver/agent_kit/_cands/task005.onnx","name":"bpk005b_u8"},
+ {"task":157,"path":"/Users/xingyuanxue1122/Documents/coding/neurogolf-26/.claude/worktrees/kaggle-agent-harness/neurogolf_solver/agent_kit/_cands/task157.onnx","name":"bpk157b_u8"}
+]
